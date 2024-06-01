@@ -1,12 +1,12 @@
 ### Hi there 👋, I am Sidratul
-#### Android App Developer
-![Android App Developer](https://media.licdn.com/dms/image/D5616AQHt_rH6YNkyUg/profile-displaybackgroundimage-shrink_350_1400/0/1701433778299?e=1706745600&v=beta&t=8Cx5eBO0m2H41JQ5isKp8LCusJCstiBh7uTtGN4qQPM)
+#### Python Full Stack Developer
+![Python Full Stack Developer](https://media.licdn.com/dms/image/D5616AQHt_rH6YNkyUg/profile-displaybackgroundimage-shrink_350_1400/0/1701433778299?e=1706745600&v=beta&t=8Cx5eBO0m2H41JQ5isKp8LCusJCstiBh7uTtGN4qQPM)
 
 "Syntax Sorcerer"
 
-Skills: Java/c/c++/kotlin
+Skills: python/java/c/c++/kotlin
 
-- 🌱 I’m currently learning Android App Development 
+- 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Problem Solving 
 - 📫 How to reach me: sidratul15-11879@diu.edu.bd 
