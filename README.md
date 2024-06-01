@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Sidratul
 #### Python Full Stack Developer
-![Python Full Stack Developer](https://media.licdn.com/dms/image/D5616AQHt_rH6YNkyUg/profile-displaybackgroundimage-shrink_350_1400/0/1701433778299?e=1706745600&v=beta&t=8Cx5eBO0m2H41JQ5isKp8LCusJCstiBh7uTtGN4qQPM)
 
 "Syntax Sorcerer"
 
