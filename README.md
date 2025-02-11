@@ -1,15 +1,15 @@
 ### Hi there 👋, I am Sidratul
-#### Python Full Stack Developer
+#### Flutter & Full Stack Developer
 
-"Syntax Sorcerer"
+"Flutter Frame Crafter"
 
-Skills: python/java/c/c++/kotlin
+Skills: Flutter / Dart / Python / Java / C++ / Kotlin
 
-- 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Problem Solving 
+- 🌱 I’m currently learning Flutter for mobile app development
+- 👯 I’m looking to collaborate on open-source Flutter projects on GitHub
+- 💬 Ask me about Flutter, mobile app development, and problem-solving in coding 
 - 📫 How to reach me: sidratul15-11879@diu.edu.bd 
-- ⚡ Fun fact:  "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered." - Guido van Rossum
+- ⚡ Fun fact: "The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sonykhan1121) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='Codeforces' height='40'>](https://codeforces.com/profile/Ibrahimovic_The_Lion) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sidratul-montaha-441b80175//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sonykhan1121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sonykhan1121//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Sidratul183)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCiTT9ul3-fFJGjyZR49Z9mA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://leetcode.com/sidratul15-11879/)  
