@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sidratul
-#### Flutter & Full Stack Developer
+#### Flutter Full Stack Developer
 
 "Flutter Frame Crafter"
 
