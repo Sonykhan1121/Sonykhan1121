@@ -8,7 +8,7 @@ Skills: Flutter / Dart / Python / Java / C++ / Kotlin
 - 🌱 I’m currently learning Flutter for mobile app development
 - 👯 I’m looking to collaborate on open-source Flutter projects on GitHub
 - 💬 Ask me about Flutter, mobile app development, and problem-solving in coding 
-- 📫 How to reach me: sidratul15-11879@diu.edu.bd 
+- 📫 How to reach me: sonykhan1121@gmail.com
 - ⚡ Fun fact: "The best thing about a boolean is even if you are wrong, you are only off by a bit." - Anonymous
 
 
